@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -almx --file-type .
+ls -alm --file-type [:digit][:alpha] .
