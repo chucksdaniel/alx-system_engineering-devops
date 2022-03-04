@@ -1,3 +1,2 @@
 #!/bin/bash
-#Chnage the group ownership 
 chgrp school ./hello

@@ -1,3 +1,2 @@
 #!/bin/bash
-# script that changes the ownership and group of a symlink
 sudo chown -h vincent:staff _hello
