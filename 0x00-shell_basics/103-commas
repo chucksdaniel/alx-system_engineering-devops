@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alm --file-type [:digit][:alpha] .
+ls -almp --file-type .
