@@ -1,3 +1,2 @@
 #!/bin/bash
-#chown  if owner is guillaume
 chown --from=guillaume betty hello
