@@ -1,3 +1,2 @@
 #!/bin/bash
-#Script that create a file and add 751 permission to it
 mkdir -m 751 my_dir
