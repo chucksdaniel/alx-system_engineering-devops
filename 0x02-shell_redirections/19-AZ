@@ -1,2 +1,2 @@
 #!/bin/bash
-read word tr Ac Ze
+read word; echo word tr Ac Ze
